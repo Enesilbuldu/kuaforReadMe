@@ -7,7 +7,9 @@ INIF, Uludağ Üniversitesi İnegöl İşletme Fakültesi'nde kullanılacak olan
 ## Proje Hakkında
 
 ### Giriş Yap - Kayıt Ol
-
+<p float="left">
+<img width="500" src="https://raw.githubusercontent.com/Enesilbuldu/kuaforReadMe/main/IMG-20240117-WA0069.jpg" />
+</p>
 Uygulama açıldığında kullanıcıyı "Giriş Yap" sayfası karşılıyor. Kullanıcı, e-posta ve şifresini girerek giriş yapıyor.
 
 ### Kullanıcı Ana Ekranı
