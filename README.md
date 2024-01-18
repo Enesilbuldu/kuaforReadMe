@@ -36,7 +36,9 @@ Bu sayfada kuaför, kendine ait aktif randevuları görüntüleyebilir. Müşter
 <img src="https://github.com/Enesilbuldu/kuaforReadMe/blob/main/IMG-20240117-WA0081.jpg" />
 Bu sayfada yetkili kullanıcının yani adminin bütün kullanıcıları, verileri, bilgileri değiştirebileceği ekranlar bulunmaktadır.
 
-## Kullanılan Teknolojiler
+### ER Diyagramı
+<img src="https://raw.githubusercontent.com/Enesilbuldu/kuaforReadMe/main/WhatsApp%20Görsel%202024-01-18%20saat%2023.03.10_479d8c96.jpg" />
+Sistemimizin ER Diyagramı.
 
 ### Frontend:
 
