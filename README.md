@@ -13,11 +13,11 @@ INIF, Uludağ Üniversitesi İnegöl İşletme Fakültesi'nde kullanılacak olan
 Uygulama açıldığında kullanıcıyı "Giriş Yap" sayfası karşılıyor. Kullanıcı, e-posta ve şifresini girerek giriş yapıyor.
 
 ### Kullanıcı Ana Ekranı
-
+<img src="https://raw.githubusercontent.com/Enesilbuldu/kuaforReadMe/main/IMG-20240117-WA0071.jpg" />
 Giriş yapıldığında kullanıcıyı bekleyen ana ekranda sırasıyla; Anasayfa, Hakkımızda, İletişim, Randevu Al, Mevcut Randevularım, Hesap Ayarları ve Çıkış Yap butonları bulunmaktadır. Buradan istenilen menüye geçiş yapılabiliyor.
 
 ### Randevu Ekranı
-
+<img src="https://raw.githubusercontent.com/Enesilbuldu/kuaforReadMe/main/IMG-20240117-WA0061.jpg" />
 Kuaför seçimi ile başlayan randevu alma sistemi, alınacak hizmetlerin seçimi, randevu tarihi ve saatinin seçimi, son olarak da randevu hakkında belirtmenin müşteriye bırakıldığı bir not bölümünden oluşmaktadır.
 
 ### Randevuları Görüntüleme
